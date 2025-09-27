@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jun Kai
 
-<!--
-**KingKaiZhuang/KingKaiZhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌏 I'm from **Taiwan**, currently a **5th-year student at STUST (Southern Taiwan University of Science and Technology)**.  
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Studying **Information Technology / Computer Science**  
+- 🌐 Experience in **WordPress, Vue, Laravel** web development  
+- 🎮 Currently learning **Unity** & **Android App Development**  
+- 🏢 Future goal: Work at a **large tech company**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Website
+👉 [stackpenguin.com](https://stackpenguin.com/)  
+
+[![Kai's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingKaiZhuang&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
