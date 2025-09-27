@@ -1,6 +1,6 @@
 # Hi, I'm Jun Kai
 
-- 🎓 Studying **Information Technology / Computer Science**  
+- 🎓 Studying **Computer Science and Information Engineering**  
 - 🌐 Experience in **WordPress, Vue, Laravel** web development  
 - 🎮 Currently learning **Unity** & **Android App Development**  
 - 🏢 Future goal: Work at a **large tech company**
