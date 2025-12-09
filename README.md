@@ -16,9 +16,3 @@
 
 # 🌐 社群：
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/zhuang_2025/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhuangx869@gmail.com)
-
-### ✍️ 隨機開發者語錄
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 🏆 GitHub 獎盃
-![](https://github-profile-trophy.vercel.app/?username=KingKaiZhuang&theme=radical&no-frame=true&no-bg=true&margin-w=4)
