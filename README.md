@@ -1,6 +1,6 @@
 # 嗨，我是StackPenguin
 
-* 🎓 正在攻讀**資訊工程與資訊管理系**
+* 🎓 **資訊工程系**
 * 🌐 具備 **WordPress, Vue, Laravel** 網頁開發經驗
 * 🎮 目前正在學習 **Unity** & **Android App 開發**
 * 🏢 未來的目標：在**大型科技公司**工作
